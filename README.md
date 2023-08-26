@@ -24,4 +24,23 @@ The plot_accuracy_and_loss() function takes a history object as input. This obje
 The function first extracts the accuracy and loss values from the history object. It then plots the accuracy and loss values on two separate subplots. The first subplot shows the training accuracy and loss, and the second subplot shows the validation accuracy and loss.
 The function also sets the labels for the axes and the title for each subplot. Finally, it calls the plt.show() function to display the plot.
 
+### Original Image
+![](https://github.com/Anmol17Agarwal/Image_recogination/blob/main/one.jpg)
+
+### While running the code
+```
+Model summary for code
+```
+![](https://github.com/Anmol17Agarwal/Image_recogination/blob/main/Screenshot%202023-08-26%20233052.png)
+
+```
+Grapgh of accuracy and loss
+```
+![](https://github.com/Anmol17Agarwal/Image_recogination/blob/main/Screenshot%202023-08-26%20233220.png)
+
+```
+Data Set of above grapgh and Result
+```
+![](https://github.com/Anmol17Agarwal/Image_recogination/blob/main/Screenshot%202023-08-26%20233426.png)
+
 
